@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Dec 07 12:16:48 WAT 2022","Wed Dec 07 12:17:06 WAT 2022","17557","Default Suite","JumiaAutomationTestProject","JumiaWebTest","JumiaWebTest","negativeSignInEmail","negativeSignInEmail",""
+"passed","Wed Dec 07 12:16:18 WAT 2022","Wed Dec 07 12:16:24 WAT 2022","5924","Default Suite","JumiaAutomationTestProject","JumiaWebTest","JumiaWebTest","webUrl","webUrl",""
+"passed","Wed Dec 07 12:16:29 WAT 2022","Wed Dec 07 12:16:34 WAT 2022","5003","Default Suite","JumiaAutomationTestProject","JumiaWebTest","JumiaWebTest","signIN","signIN",""
+"passed","Wed Dec 07 12:16:43 WAT 2022","Wed Dec 07 12:16:48 WAT 2022","5248","Default Suite","JumiaAutomationTestProject","JumiaWebTest","JumiaWebTest","LogoutSuccessfully","LogoutSuccessfully",""
+"passed","Wed Dec 07 12:16:34 WAT 2022","Wed Dec 07 12:16:43 WAT 2022","9259","Default Suite","JumiaAutomationTestProject","JumiaWebTest","JumiaWebTest","positiveSignIn","positiveSignIn",""
+"passed","Wed Dec 07 12:17:06 WAT 2022","Wed Dec 07 12:17:16 WAT 2022","10411","Default Suite","JumiaAutomationTestProject","JumiaWebTest","JumiaWebTest","negativeSignInPassword","negativeSignInPassword",""
+"passed","Wed Dec 07 12:16:24 WAT 2022","Wed Dec 07 12:16:29 WAT 2022","5152","Default Suite","JumiaAutomationTestProject","JumiaWebTest","JumiaWebTest","getPageTitle","getPageTitle",""
